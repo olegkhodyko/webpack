@@ -1,0 +1,9 @@
+.button {
+  padding: 12px 30px;
+  background-color: lightgreen;
+  border-width: 0;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
